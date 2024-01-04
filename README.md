@@ -10,6 +10,8 @@
 
 Esse é um dos estudos de caso (Capstone Project) desenvolvido para conclusão da especialização [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) lecionado pelo Google através da plataforma Coursera.
 
+Durante a especialização são oferecidos duas propostas de projetos para conclusão do curso. Esse repositório contém o segundo projeto, análise de dados de produtos inteligentes da empresa Bellabeat.
+
 ### Como esse repositório está estruturado?
 
 ### Índice
@@ -20,7 +22,7 @@ Esse é um dos estudos de caso (Capstone Project) desenvolvido para conclusão d
 - []()
 - []()
 
----
+##
 
 ### Cenário
 Você é um analista de dados júnior trabalhando na equipe de análise de marketing da Bellabeat, uma fabricante de alta tecnologia de produtos de saúde para mulheres. A Bellabeat é uma empresa pequena bem-sucedida, mas tem o potencial de se tornar um grande player no mercado global de dispositivos inteligentes. Urška Sršen, cofundadora e Diretora de Criação da Bellabeat, acredita que analisar dados de dispositivos inteligentes de fitness pode ajudar a desbloquear novas oportunidades de crescimento para a empresa. Você foi solicitado a focar em um dos produtos da Bellabeat e analisar dados de dispositivos inteligentes para obter insights sobre como os consumidores estão usando seus dispositivos inteligentes. As descobertas que você fizer ajudarão a orientar a estratégia de marketing da empresa. Você apresentará sua análise à equipe executiva da Bellabeat junto com suas recomendações de alto nível para a estratégia de marketing da Bellabeat.
@@ -47,5 +49,5 @@ Sršen pede para você analisar dados de uso de dispositivos inteligentes para o
 2. Como essas tendências podem se aplicar aos clientes da Bellabeat?
 3. Como essas tendências podem ajudar a influenciar a estratégia de marketing da Bellabeat?
 
----
+##
 

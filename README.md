@@ -6,6 +6,12 @@
   <h2 align="center">Como uma empresa de tecnologia para o saúde feminina pode agir com inteligência?</h2>
 </div>
 
+### Introdução
+
+Esse é um dos estudos de caso (Capstone Project) desenvolvido para conclusão da especialização [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) lecionado pelo Google através da plataforma Coursera.
+
+### Como esse repositório está estruturado?
+
 ### Índice
 
 - []()

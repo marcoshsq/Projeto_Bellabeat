@@ -3,9 +3,18 @@
     <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/bellabeat.png" alt="DataViz" width="150" height="150">
   </a>
 </p>  
-  <h3 align="center">Como uma empresa de tecnologia para o saúde feminina pode agir com inteligência?</h3>
+  <h2 align="center">Como uma empresa de tecnologia para o saúde feminina pode agir com inteligência?</h2>
 </div>
 
+### Índice
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
+---
 
 ### Cenário
 Você é um analista de dados júnior trabalhando na equipe de análise de marketing da Bellabeat, uma fabricante de alta tecnologia de produtos de saúde para mulheres. A Bellabeat é uma empresa pequena bem-sucedida, mas tem o potencial de se tornar um grande player no mercado global de dispositivos inteligentes. Urška Sršen, cofundadora e Diretora de Criação da Bellabeat, acredita que analisar dados de dispositivos inteligentes de fitness pode ajudar a desbloquear novas oportunidades de crescimento para a empresa. Você foi solicitado a focar em um dos produtos da Bellabeat e analisar dados de dispositivos inteligentes para obter insights sobre como os consumidores estão usando seus dispositivos inteligentes. As descobertas que você fizer ajudarão a orientar a estratégia de marketing da empresa. Você apresentará sua análise à equipe executiva da Bellabeat junto com suas recomendações de alto nível para a estratégia de marketing da Bellabeat.
